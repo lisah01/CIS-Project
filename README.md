@@ -26,7 +26,14 @@
 ```
 Provider Name,Product Name,Current Price,Discount,Expiration,Status
 ```
-* Attributes should be separated by a comma ',' without any white spaces. See the previously defined limitations under the "Project Specifications" section.
+* Attributes should be separated by a comma ',' without any white spaces. Data limitations are as follows:
+  * Name of Provider: 20 bytes/chars max
+  * Product Name: 20 bytes/chars max
+  * Price of Product: assumed to be a positive number <=0
+  * Discount Rate: between 5% and 80%, excludes the '%' character
+  * Expiration Period: between 0 and 365 days
+  * Status of a Coupon: Unused or Redeemed
+
 
 ### Executing program
 
