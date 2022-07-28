@@ -1,0 +1,10 @@
+eBay,Scissors,3,15,21,F
+Groupon,Apple,1.5,10,14,F
+Groupon,Kayaking,50,35,30,T
+eBay,Used Phone,300,15,20,F
+eBay,Laptop,2345,60,50,F
+Groupon,Cookies,5,50,14,F
+Living Social,Restaurant,35.50,20,7,T
+TEST0123451234512345,FORMATTING_LINE_TEST,10000,20,300,F
+TEST,LONG_NAME01234567890ZZZ,111,30,14,F
+
