@@ -41,6 +41,8 @@ Provider Name,Product Name,Current Price,Discount,Expiration,Status
 * Open up a terminal and compile all source code files: ```javac *.java```
 * Run the program: ```java Main```
 
+* It can also be executed using an IDE
+
 * Upon startup users will be prompted with a menu
 
 * ![image](https://user-images.githubusercontent.com/94252703/181397384-def5df3a-c1dd-438a-ae55-6868bc9b2161.png)
