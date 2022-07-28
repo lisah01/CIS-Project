@@ -1,4 +1,4 @@
-# Coupon Inventory System
+# Coupon Inventory Database System
 
 * This project was for CS401: Introduction to Advanced Studies I, which covered data structures and algorithms.
 
