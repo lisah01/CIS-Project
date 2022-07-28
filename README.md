@@ -6,12 +6,12 @@
 
 * The program should build a database using an unsorted linked list implementation. It should take a text file or manual input and store the information to the database. Based on user input, it should sort the unsorted linked list before displaying the requested coupon information. It should also handle any exceptions such as improper file formats, out-of-bounds data fields, etc. It uses mergesort for searching and listing coupon information.
 * The system contains the following information for each coupon:
--- Name of Coupon Provider
--- Name of Product
--- Price
--- Discount
--- Expiration Period
--- Status of a Coupon (Redeemed or Unused)
+  * Name of Coupon Provider
+  * Name of Product
+  * Price
+  * Discount
+  * Expiration Period
+  * Status of a Coupon (Redeemed or Unused)
 
 ## Getting Started
 
