@@ -1,10 +1,11 @@
 # Coupon Inventory System
 
-This project was for CS401: Introduction to Advanced Studies I which covered data structures and algorithms.
+* This project was for CS401: Introduction to Advanced Studies I, which covered data structures and algorithms.
 
 ## Description
 
-The coupon inventory database is built on a custom linked list class to store coupon information, and uses mergesort for various functions. The system contains the following information:
+* The program should build a database using an unsorted linked list implementation. It should take a text file or manual input and store the information to the database. Based on user input, it should sort the unsorted linked list before displaying the requested coupon information. It should also handle any exceptions such as improper file formats, out-of-bounds data fields, etc. It uses mergesort for searching and listing coupon information.
+* The system contains the following information for each coupon:
 - Name of Coupon Provider
 - Name of Product
 - Price
@@ -67,3 +68,6 @@ Provider Name,Product Name,Current Price,Discount,Expiration,Status
 * ![image](https://user-images.githubusercontent.com/94252703/181398237-9551e167-4147-426e-a45f-04209d3c8dce.png)
 * ![image](https://user-images.githubusercontent.com/94252703/181398256-c029cea4-0815-4799-a655-00d57c5c7b76.png)
 * ![image](https://user-images.githubusercontent.com/94252703/181398275-f33a94fe-f699-4954-bd08-3d5ebf430c44.png)
+
+### Testing
+* 6 text files are included in the "test files" folder which were used during the development of the program. These can be used one at a time by uncommenting the test case in ```Main.java```
